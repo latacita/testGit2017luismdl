@@ -7,3 +7,6 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
  (25)					Seria recursivo
+ (27)	tag RespuestaPreguntaFusion
+ (28)	pull + push			cambios en repositorio remoto
+					merge con la rama master local
