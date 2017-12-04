@@ -1,7 +1,7 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):Martin de la Rubia, Luis              %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
@@ -10,3 +10,14 @@
  (27)	tag RespuestaPreguntaFusion
  (28)	pull + push			cambios en repositorio remoto
 					merge con la rama master local
+ (03)	branch Historia000
+ (04)	branch Historia001
+ (05)	checkout Historia000
+ (07)	add bitácora.txt
+ (08)	commit -m "Paso 8"
+ (09)	checkout Historia001
+ (11)	stash "Paso11" + 
+	checkout Historia000
+ (16)	stash pop
+ (20)	merge Historia 000	      recursiva, resuelto conflictos 
+					en bitacora.txt
