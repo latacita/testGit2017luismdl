@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (07)	add bitácora.txt
+ (08)	commit -m "Paso 8"
+ (09)	checkout Historia001
+ (16)	stash pop
