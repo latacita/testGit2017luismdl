@@ -1,8 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):Martin de la Rubia, Luis              %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (03)	branch Historia000
+ (04)	branch Historia001
+ (04)	checkout Historia000
